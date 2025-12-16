@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ngvba/Desktop/MLOps/mlruns/145647789333647931/models/m-757df66821cb4301a083b480275e25aa/artifacts
+creation_timestamp: 1765810820822
+experiment_id: '145647789333647931'
+last_updated_timestamp: 1765810823377
+model_id: m-757df66821cb4301a083b480275e25aa
+model_type: null
+name: model
+source_run_id: f64b75775f7443f9bf46febf95063d10
+status: 2
+status_message: null
