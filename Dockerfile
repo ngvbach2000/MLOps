@@ -17,5 +17,5 @@ COPY . .
 # Mở cổng 5001 (Cổng mà Flask app của bạn đang chạy)
 EXPOSE 5001
 
-# Lệnh chạy ứng dụng khi container khởi động
+# Lệnh mặc định, có thể bị override bởi docker-compose
 CMD ["python", "app.py"]
